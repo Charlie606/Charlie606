@@ -1,15 +1,28 @@
 ## Hi there, I'm Chandan Kumar Ray
 Welcome to my GitHub profile! I'm a fresher Full Stack Developer, Front-End Developer, and UI/UX Designer. Here, you'll find my projects, contributions, and a glimpse of my technical journey.
+
 ---
-### 💼 Experience
+## 🎓 Education
 
--   **Full Stack Developer** at Google
-    -   Developed and deployed production-grade software for the Google Cloud team.
-    -   Contributed to the development of new features in a microservices architecture.
--   **Front-End Developer** at Apple
-    -   Designed and implemented user interfaces for the Apple Store website.
-    -   Collaborated with a team of designers and back-end engineers to deliver high-quality code.
+**Bachelor in Computer Science and Information Technology**
 
+  Birat Multiple College (2022 - 2026) | Nepal
+
+  -    Skills: Front-End Development, JavaScript, E-Commerce, C++, HTML, CSS.
+
+**+2 in Computer Science**
+
+ Lahan Everest College, Lahan (2019 - 2021) | Nepal
+
+-    Skills: Front-End Development, Microsoft Office, HTML, CSS, C++.
+
+**Backend Certification**
+CloveIT Pvt. Ltd. (2025) | Nepal
+
+-    Grade: A
+-    Developed small products, API, and other innovative projects.
+
+---
 
 
 <!--
