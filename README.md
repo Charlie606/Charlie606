@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Chandan Kumar Ray 👋
+---
+Welcome to my GitHub profile! I'm a fresher Full Stack Developer, Front-End Developer, and UI/UX Designer. Here, you'll find my projects, contributions, and a glimpse of my technical journey.
+
 
 <!--
 **Charlie606/Charlie606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
