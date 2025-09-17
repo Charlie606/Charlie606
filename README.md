@@ -1,5 +1,4 @@
-## Hi there, I'm Chandan Kumar Ray 👋
----
+## Hi there, I'm Chandan Kumar Ray
 Welcome to my GitHub profile! I'm a fresher Full Stack Developer, Front-End Developer, and UI/UX Designer. Here, you'll find my projects, contributions, and a glimpse of my technical journey.
 
 
