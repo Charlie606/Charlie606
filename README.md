@@ -55,6 +55,9 @@ CloveIT Pvt. Ltd. (2025) | Nepal
 ![MySQL](https://img.shields.io/badge/MySQL-005C88?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
+
 ## 🛠️ What I Can Do
 
 -  Build responsive web applications that perform flawlessly across devices.
@@ -70,6 +73,10 @@ Feel free to reach out to discuss your project ideas or opportunities to work to
 
 ![Static Badge](https://img.shields.io/badge/LinkedIn-Chandan_Kumar_Ray-blue)
 ![Static Badge](https://img.shields.io/badge/Email-patelchandan1212%40gmail.com-orange)
+
+---
+
+Thank you for visiting my GitHub profile. Let's create something amazing together! 
 
 
 <!--
