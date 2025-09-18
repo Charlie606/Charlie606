@@ -50,6 +50,11 @@ CloveIT Pvt. Ltd. (2025) | Nepal
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+***🗄️ Databases***
+
+![MySQL](https://img.shields.io/badge/MySQL-005C88?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ## 🛠️ What I Can Do
 
 -  Build responsive web applications that perform flawlessly across devices.
@@ -64,6 +69,7 @@ CloveIT Pvt. Ltd. (2025) | Nepal
 Feel free to reach out to discuss your project ideas or opportunities to work together. Whether you need a polished website, or a captivating UI/UX design, I'm here to help!
 
 ![Static Badge](https://img.shields.io/badge/LinkedIn-Chandan_Kumar_Ray-blue)
+![Static Badge](https://img.shields.io/badge/Email-patelchandan1212%40gmail.com-orange)
 
 
 <!--
