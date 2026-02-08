@@ -42,7 +42,7 @@ CloveIT Pvt. Ltd. (2025) | Nepal
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-black?style=for-the-badge&logo=figma)
 ![Designing](https://img.shields.io/badge/Designing-black?style=for-the-badge&logo=figma)
 ![Networking](https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 
 
 
@@ -53,6 +53,7 @@ CloveIT Pvt. Ltd. (2025) | Nepal
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ***🗄️ Databases***
 
