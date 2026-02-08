@@ -1,5 +1,5 @@
 ## Hi there, I'm Chandan Kumar Ray
-Welcome to my GitHub profile! I'm a fresher Full Stack Developer, Front-End Developer, and UI/UX Designer. Here, you'll find my projects, contributions, and a glimpse of my technical journey.
+Welcome to my GitHub profile! I'm a fresher Front-End Developer, UI/UX Designer and interested to work in Networking field as well. Here, you'll find my projects, contributions, and a glimpse of my technical journey.
 
 ---
 ## 🎓 Education
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a fresher Full Stack Developer, Front-End Deve
 
   Birat Multiple College (2022 - 2026) | Nepal
 
-  -    Skills: Front-End Development, JavaScript, E-Commerce, C++, HTML, CSS.
+  -    Skills: Front-End Development, JavaScript, E-Commerce, C++, HTML, CSS, Basic of Networking
 
 **+2 in Computer Science**
 
@@ -41,6 +41,8 @@ CloveIT Pvt. Ltd. (2025) | Nepal
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-black?style=for-the-badge&logo=figma)
 ![Designing](https://img.shields.io/badge/Designing-black?style=for-the-badge&logo=figma)
+![Cisco Packet Tracer](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FCisco%2520Packet%2520Tracer-8A2BE2)
+
 
 ***💻 Software and Tools***
 
