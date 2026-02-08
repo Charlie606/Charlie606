@@ -41,7 +41,9 @@ CloveIT Pvt. Ltd. (2025) | Nepal
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-black?style=for-the-badge&logo=figma)
 ![Designing](https://img.shields.io/badge/Designing-black?style=for-the-badge&logo=figma)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-8A2BE2)
+![Networking](https://img.shields.io/badge/Networking-black?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
 
 
 ***💻 Software and Tools***
